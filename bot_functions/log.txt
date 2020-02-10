@@ -1,0 +1,2573 @@
+Array
+(
+    [update_id] => 857406800
+    [channel_post] => Array
+        (
+            [message_id] => 3
+            [author_signature] => Rustem Mingaleev
+            [chat] => Array
+                (
+                    [id] => -1001318317775
+                    [title] => Фильмы торрент
+                    [type] => channel
+                )
+
+            [date] => 1542975753
+            [text] => вфцвфц
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 857406801
+    [message] => Array
+        (
+            [message_id] => 245
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542975954
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406802
+    [message] => Array
+        (
+            [message_id] => 247
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542976005
+            [text] => Получить ссылку на группу
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406803
+    [message] => Array
+        (
+            [message_id] => 249
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542978056
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406804
+    [message] => Array
+        (
+            [message_id] => 251
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542978058
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406805
+    [message] => Array
+        (
+            [message_id] => 252
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542978066
+            [text] => Получить ссылку на группу
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406806
+    [message] => Array
+        (
+            [message_id] => 254
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542978069
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406807
+    [message] => Array
+        (
+            [message_id] => 255
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542980121
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406808
+    [message] => Array
+        (
+            [message_id] => 256
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542980190
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406809
+    [message] => Array
+        (
+            [message_id] => 258
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542980195
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406810
+    [message] => Array
+        (
+            [message_id] => 259
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542980265
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406811
+    [message] => Array
+        (
+            [message_id] => 261
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542980268
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406812
+    [message] => Array
+        (
+            [message_id] => 262
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542980304
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406813
+    [message] => Array
+        (
+            [message_id] => 263
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542980309
+            [text] => Получить ссылку на группу
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406814
+    [message] => Array
+        (
+            [message_id] => 265
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542980312
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406815
+    [message] => Array
+        (
+            [message_id] => 266
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542980367
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406816
+    [message] => Array
+        (
+            [message_id] => 268
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542980370
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406817
+    [message] => Array
+        (
+            [message_id] => 269
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542980378
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406818
+    [message] => Array
+        (
+            [message_id] => 270
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542980426
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406819
+    [message] => Array
+        (
+            [message_id] => 271
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542980432
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 857406820
+    [message] => Array
+        (
+            [message_id] => 272
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542980469
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406821
+    [message] => Array
+        (
+            [message_id] => 274
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542980472
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406822
+    [message] => Array
+        (
+            [message_id] => 275
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542980519
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 857406823
+    [message] => Array
+        (
+            [message_id] => 276
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542980537
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 857406824
+    [message] => Array
+        (
+            [message_id] => 277
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542980607
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406825
+    [message] => Array
+        (
+            [message_id] => 279
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542980702
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406826
+    [message] => Array
+        (
+            [message_id] => 281
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542980706
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406827
+    [message] => Array
+        (
+            [message_id] => 283
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542980763
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 857406828
+    [message] => Array
+        (
+            [message_id] => 285
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542983080
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406829
+    [message] => Array
+        (
+            [message_id] => 287
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542983158
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 857406830
+    [message] => Array
+        (
+            [message_id] => 289
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542983171
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+
+Array
+(
+    [update_id] => 857406831
+    [message] => Array
+        (
+            [message_id] => 291
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542983269
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406832
+    [message] => Array
+        (
+            [message_id] => 302
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542983314
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+
+
+Array
+(
+    [update_id] => 857406833
+    [message] => Array
+        (
+            [message_id] => 305
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542984704
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406834
+    [message] => Array
+        (
+            [message_id] => 307
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542985772
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+
+
+Array
+(
+    [update_id] => 857406835
+    [message] => Array
+        (
+            [message_id] => 311
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542986326
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406836
+    [message] => Array
+        (
+            [message_id] => 313
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1542986331
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406837
+    [message] => Array
+        (
+            [message_id] => 316
+            [from] => Array
+                (
+                    [id] => 332158440
+                    [is_bot] => 
+                    [first_name] => Grimur
+                    [username] => Grimur
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 332158440
+                    [first_name] => Grimur
+                    [username] => Grimur
+                    [type] => private
+                )
+
+            [date] => 1542988769
+            [text] => Получить ссылку на группу
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406929
+    [message] => Array
+        (
+            [message_id] => 525
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1543321951
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406930
+    [message] => Array
+        (
+            [message_id] => 536
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1543321968
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406931
+    [message] => Array
+        (
+            [message_id] => 547
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1543322058
+            [text] => Получить ссылку на группу
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406932
+    [message] => Array
+        (
+            [message_id] => 549
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1543322816
+            [text] => тест
+        )
+
+)
+
+
+
+Array
+(
+    [update_id] => 857406933
+    [message] => Array
+        (
+            [message_id] => 551
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1543325572
+            [text] => тест
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406934
+    [message] => Array
+        (
+            [message_id] => 553
+            [from] => Array
+                (
+                    [id] => 365236524
+                    [is_bot] => 
+                    [first_name] => Рамиль
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 365236524
+                    [first_name] => Рамиль
+                    [type] => private
+                )
+
+            [date] => 1543381596
+            [text] => Т
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406935
+    [message] => Array
+        (
+            [message_id] => 555
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1544013430
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406936
+    [message] => Array
+        (
+            [message_id] => 557
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1544013433
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406937
+    [message] => Array
+        (
+            [message_id] => 559
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1544013440
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406938
+    [message] => Array
+        (
+            [message_id] => 561
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [type] => private
+                )
+
+            [date] => 1544013448
+            [text] => Получить ссылку на группу
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406939
+    [message] => Array
+        (
+            [message_id] => 563
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [username] => likeyourstyle
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [username] => likeyourstyle
+                    [type] => private
+                )
+
+            [date] => 1544707418
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406940
+    [message] => Array
+        (
+            [message_id] => 565
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [username] => likeyourstyle
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [username] => likeyourstyle
+                    [type] => private
+                )
+
+            [date] => 1544707424
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406941
+    [message] => Array
+        (
+            [message_id] => 567
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [username] => likeyourstyle
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [username] => likeyourstyle
+                    [type] => private
+                )
+
+            [date] => 1544712913
+            [text] => Пап
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406942
+    [channel_post] => Array
+        (
+            [message_id] => 143
+            [chat] => Array
+                (
+                    [id] => -1001318317775
+                    [title] => Фильмы торрент
+                    [type] => channel
+                )
+
+            [date] => 1544714615
+            [text] => Это тест был, отключу его на время
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406943
+    [message] => Array
+        (
+            [message_id] => 610
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [username] => likeyourstyle
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [username] => likeyourstyle
+                    [type] => private
+                )
+
+            [date] => 1544718912
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406944
+    [message] => Array
+        (
+            [message_id] => 624
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [username] => likeyourstyle
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [username] => likeyourstyle
+                    [type] => private
+                )
+
+            [date] => 1544719693
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406945
+    [message] => Array
+        (
+            [message_id] => 627
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [username] => likeyourstyle
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [username] => likeyourstyle
+                    [type] => private
+                )
+
+            [date] => 1544719704
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406946
+    [channel_post] => Array
+        (
+            [message_id] => 164
+            [chat] => Array
+                (
+                    [id] => -1001318317775
+                    [title] => Фильмы торрент
+                    [type] => channel
+                )
+
+            [date] => 1544721062
+            [text] => Еба чё творит
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406947
+    [channel_post] => Array
+        (
+            [message_id] => 167
+            [chat] => Array
+                (
+                    [id] => -1001318317775
+                    [title] => Фильмы торрент
+                    [type] => channel
+                )
+
+            [date] => 1544787090
+            [text] => Мотылек кстать посмотрите, про заключенного, хотя название тупое
+        )
+
+)
+
+Array
+(
+    [update_id] => 857406948
+    [message] => Array
+        (
+            [message_id] => 633
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [username] => likeyourstyle
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [username] => likeyourstyle
+                    [type] => private
+                )
+
+            [date] => 1544867037
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 380366799
+    [message] => Array
+        (
+            [message_id] => 635
+            [from] => Array
+                (
+                    [id] => 332158440
+                    [is_bot] => 
+                    [first_name] => Grimur
+                    [username] => Grimur
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 332158440
+                    [first_name] => Grimur
+                    [username] => Grimur
+                    [type] => private
+                )
+
+            [date] => 1549003284
+            [text] => Получить ссылку на группу
+        )
+
+)
+
+Array
+(
+    [update_id] => 380366800
+    [message] => Array
+        (
+            [message_id] => 637
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [username] => likeyourstyle
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [username] => likeyourstyle
+                    [type] => private
+                )
+
+            [date] => 1549003790
+            [text] => Получить ссылку на группу
+        )
+
+)
+
+Array
+(
+    [update_id] => 380366801
+    [message] => Array
+        (
+            [message_id] => 639
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [username] => likeyourstyle
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [username] => likeyourstyle
+                    [type] => private
+                )
+
+            [date] => 1550169976
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 380366802
+    [message] => Array
+        (
+            [message_id] => 641
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [username] => likeyourstyle
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [last_name] => Mingaleev
+                    [username] => likeyourstyle
+                    [type] => private
+                )
+
+            [date] => 1550416831
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 380366803
+    [message] => Array
+        (
+            [message_id] => 643
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [username] => likeyourstyle
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [username] => likeyourstyle
+                    [type] => private
+                )
+
+            [date] => 1551363734
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 380366804
+    [message] => Array
+        (
+            [message_id] => 645
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [username] => likeyourstyle
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [username] => likeyourstyle
+                    [type] => private
+                )
+
+            [date] => 1551364250
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 380366805
+    [message] => Array
+        (
+            [message_id] => 647
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [username] => likeyourstyle
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [username] => likeyourstyle
+                    [type] => private
+                )
+
+            [date] => 1551364664
+            [text] => Получить ссылку на группу
+        )
+
+)
+
+Array
+(
+    [update_id] => 380366806
+    [message] => Array
+        (
+            [message_id] => 649
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [username] => likeyourstyle
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [username] => likeyourstyle
+                    [type] => private
+                )
+
+            [date] => 1551865964
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 380366807
+    [message] => Array
+        (
+            [message_id] => 651
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [username] => likeyourstyle
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [username] => likeyourstyle
+                    [type] => private
+                )
+
+            [date] => 1551866030
+            [text] => Получить ссылку на группу
+        )
+
+)
+
+Array
+(
+    [update_id] => 380366808
+    [message] => Array
+        (
+            [message_id] => 653
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [username] => likeyourstyle
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [username] => likeyourstyle
+                    [type] => private
+                )
+
+            [date] => 1551866036
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 380366809
+    [message] => Array
+        (
+            [message_id] => 655
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [username] => likeyourstyle
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [username] => likeyourstyle
+                    [type] => private
+                )
+
+            [date] => 1551866038
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 380366810
+    [message] => Array
+        (
+            [message_id] => 657
+            [from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [username] => likeyourstyle
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 355353616
+                    [first_name] => Rustem
+                    [username] => likeyourstyle
+                    [type] => private
+                )
+
+            [date] => 1551866059
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
+Array
+(
+    [update_id] => 816209935
+    [channel_post] => Array
+        (
+            [message_id] => 584
+            [chat] => Array
+                (
+                    [id] => -1001318317775
+                    [title] => Фильмы торрент
+                    [type] => channel
+                )
+
+            [date] => 1555497415
+            [forward_from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [username] => likeyourstyle
+                    [language_code] => ru
+                )
+
+            [forward_date] => 1555497168
+            [text] => Смотри что делают, чтобы зп не поднимать
+        )
+
+)
+
+Array
+(
+    [update_id] => 816209936
+    [channel_post] => Array
+        (
+            [message_id] => 585
+            [chat] => Array
+                (
+                    [id] => -1001318317775
+                    [title] => Фильмы торрент
+                    [type] => channel
+                )
+
+            [date] => 1555497415
+            [forward_from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [username] => likeyourstyle
+                    [language_code] => ru
+                )
+
+            [forward_date] => 1555495898
+            [text] => Планирую продолжить обучение, сейчас работаю в Барс груп в направлении web-разработки, но хотелось бы перейти на андроид если такая возможность выпадет
+        )
+
+)
+
+Array
+(
+    [update_id] => 816209937
+    [channel_post] => Array
+        (
+            [message_id] => 586
+            [chat] => Array
+                (
+                    [id] => -1001318317775
+                    [title] => Фильмы торрент
+                    [type] => channel
+                )
+
+            [date] => 1555497415
+            [forward_from] => Array
+                (
+                    [id] => 255855582
+                    [is_bot] => 
+                    [first_name] => Алия
+                    [last_name] => Галяутдинова
+                    [username] => Aliya0902
+                )
+
+            [forward_date] => 1555496715
+            [text] => К сожалению, не смогу вам предложить какие-либо варианты, т.к. с данной компанией заключено двустороннее соглашение на уровне вышестоящего руководства о запрете переманивания действующих сотрудников. Желаю Вам успехов в развитии в выбранном направлении :)
+        )
+
+)
+
+Array
+(
+    [update_id] => 816209938
+    [channel_post] => Array
+        (
+            [message_id] => 587
+            [chat] => Array
+                (
+                    [id] => -1001318317775
+                    [title] => Фильмы торрент
+                    [type] => channel
+                )
+
+            [date] => 1555497415
+            [forward_from] => Array
+                (
+                    [id] => 355353616
+                    [is_bot] => 
+                    [first_name] => Rustem
+                    [username] => likeyourstyle
+                    [language_code] => ru
+                )
+
+            [forward_date] => 1555497194
+            [text] => Синдикат или картель это называется
+        )
+
+)
+
+Array
+(
+    [update_id] => 816209939
+    [message] => Array
+        (
+            [message_id] => 659
+            [from] => Array
+                (
+                    [id] => 318733347
+                    [is_bot] => 
+                    [first_name] => Lucifer
+                    [username] => Rocky9895
+                )
+
+            [chat] => Array
+                (
+                    [id] => 318733347
+                    [first_name] => Lucifer
+                    [username] => Rocky9895
+                    [type] => private
+                )
+
+            [date] => 1555524533
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 816209940
+    [message] => Array
+        (
+            [message_id] => 661
+            [from] => Array
+                (
+                    [id] => 318733347
+                    [is_bot] => 
+                    [first_name] => Lucifer
+                    [username] => Rocky9895
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 318733347
+                    [first_name] => Lucifer
+                    [username] => Rocky9895
+                    [type] => private
+                )
+
+            [date] => 1555524543
+            [text] => /cancel
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 7
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 373160271
+    [message] => Array
+        (
+            [message_id] => 663
+            [from] => Array
+                (
+                    [id] => 362483771
+                    [is_bot] => 
+                    [first_name] => Sonya
+                    [last_name] => Pakhomova
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 362483771
+                    [first_name] => Sonya
+                    [last_name] => Pakhomova
+                    [type] => private
+                )
+
+            [date] => 1559849205
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 373160272
+    [message] => Array
+        (
+            [message_id] => 665
+            [from] => Array
+                (
+                    [id] => 362483771
+                    [is_bot] => 
+                    [first_name] => Sonya
+                    [last_name] => Pakhomova
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 362483771
+                    [first_name] => Sonya
+                    [last_name] => Pakhomova
+                    [type] => private
+                )
+
+            [date] => 1559858794
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 373160273
+    [message] => Array
+        (
+            [message_id] => 667
+            [from] => Array
+                (
+                    [id] => 362483771
+                    [is_bot] => 
+                    [first_name] => Sonya
+                    [last_name] => Pakhomova
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 362483771
+                    [first_name] => Sonya
+                    [last_name] => Pakhomova
+                    [type] => private
+                )
+
+            [date] => 1559858798
+            [text] => Получить ссылку на группу
+        )
+
+)
+
+Array
+(
+    [update_id] => 611486508
+    [message] => Array
+        (
+            [message_id] => 669
+            [from] => Array
+                (
+                    [id] => 365236524
+                    [is_bot] => 
+                    [first_name] => Ramil
+                    [username] => RamilGub
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 365236524
+                    [first_name] => Ramil
+                    [username] => RamilGub
+                    [type] => private
+                )
+
+            [date] => 1572981497
+            [text] => Получить ссылку на группу
+        )
+
+)
+
+Array
+(
+    [update_id] => 611486509
+    [message] => Array
+        (
+            [message_id] => 671
+            [from] => Array
+                (
+                    [id] => 67775219
+                    [is_bot] => 
+                    [first_name] => Чебурашка
+                    [last_name] => Котофей
+                )
+
+            [chat] => Array
+                (
+                    [id] => 67775219
+                    [first_name] => Чебурашка
+                    [last_name] => Котофей
+                    [type] => private
+                )
+
+            [date] => 1577661022
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+Array
+(
+    [update_id] => 611486510
+    [message] => Array
+        (
+            [message_id] => 673
+            [from] => Array
+                (
+                    [id] => 67775219
+                    [is_bot] => 
+                    [first_name] => Чебурашка
+                    [last_name] => Котофей
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 67775219
+                    [first_name] => Чебурашка
+                    [last_name] => Котофей
+                    [type] => private
+                )
+
+            [date] => 1577661030
+            [text] => Получить ссылку на группу
+        )
+
+)
+
+Array
+(
+    [update_id] => 611486511
+    [message] => Array
+        (
+            [message_id] => 675
+            [from] => Array
+                (
+                    [id] => 67775219
+                    [is_bot] => 
+                    [first_name] => Чебурашка
+                    [last_name] => Котофей
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 67775219
+                    [first_name] => Чебурашка
+                    [last_name] => Котофей
+                    [type] => private
+                )
+
+            [date] => 1577661038
+            [text] => Список последних добавленных фильмов
+        )
+
+)
+
