@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
+body{
+	background: #000 url(http://s.filmitorrent.org/brond2/vu5_2.jpg) no-repeat center 0  ;
+        background-attachment: fixed;
+}
+
+
+.global-link{
+
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;	 
+
+}
+.content{
+	position: absolute;
+	min-width: 1000px;
+	max-width: 1000px;
+	height: 2000px;
+	top: 310px;
+	left: 50%;
+	margin-left: -500px;
+
+	background: #fff;
+
+}
+.content:hover{
+	cursor: normal;
+}

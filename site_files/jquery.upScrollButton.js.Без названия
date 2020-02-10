@@ -1,0 +1,16 @@
+/**
+ * Плавная прокрутка
+*/
+
+$(function(){$.fn.scrollToTop=function(){$(this).hide().removeAttr("href");if($(window).scrollTop()>="100"){$(this).fadeIn("slow")}var scrollDiv=$(this);$(window).scroll(function(){if($(window).scrollTop()<="200"){$(scrollDiv).fadeOut("slow")}else{$(scrollDiv).fadeIn("slow")}});$(this).click(function(){$("html, body").animate({scrollTop:0},"slow")})}});
+$(function(){$("#toTo_button").scrollToTop();});
+
+
+$(document).ready(function() {
+$('a[href^="#"]').click(function(){
+        var el = $(this).attr('href');        	
+		$('html, body').animate({
+            scrollTop: $(el).offset().top}, 1800);		
+        return false; 
+});
+});
