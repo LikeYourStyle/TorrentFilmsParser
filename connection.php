@@ -7,5 +7,5 @@
  */
 $host = 'localhost';
 $database = 'id7724244_films_bd';
-$user = 'id7724244_mingaleev99';
-$password = 'Omulub32';
+$user = 'root';
+$password = '';
