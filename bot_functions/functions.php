@@ -38,18 +38,6 @@ function sendMessage($message, $chat_id) {
     requestToTelegram($data);
 }
 
-function sendLastFilms($chat_id, $array_of_films){
-    foreach ($array_of_films as $message){
-        $data = array(
-            'text' => $message,
-            'chat_id' => $chat_id,
-        );
-
-        $status = requestToTelegram($data);
-        requestToTelegram($status);
-    }
-}
-
 function inviteToGroup($text, $group_invite_link, $chat_id){
     $inviteResponses = array();
     $inviteResponses [] = 'добавь';
@@ -89,7 +77,7 @@ function showKeyboard($chat_id){
 
     $replyMarkup = array(
         'keyboard' => array(
-            array("Список последних добавленных фильмов","Получить ссылку на группу")
+            array("Получить ссылку на группу")
         ),
         'resize_keyboard' => true
     );

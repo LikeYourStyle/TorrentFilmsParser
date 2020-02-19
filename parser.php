@@ -37,8 +37,7 @@ try {
             notifyBot($film_name, $film_link, $film_rate);
             $query = "INSERT INTO films (film, link, rate_uri) VALUES ('$film_name', '$film_link', '$film_rate')";
             if (!mysqli_query($link, $query)) {
-                notifyBot($exception->getMessage(), 'Error', 'Error');
-                die("Ошибка вставки фильмов ".mysqli_error($link));
+                notifyBot("Ошибка вставки фильмов ".mysqli_error($link), 'Error', 'Error');
             }
         }
     }
