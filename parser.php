@@ -10,7 +10,6 @@ define('BASE_URL',
     'http://filmitorrent.net/'
 );
 
-$last_films_count = 0;
 $list_info = [
     'a'=>[],
     'rate'=>[]
@@ -26,8 +25,8 @@ $list_info['rate'] = $html->find("div[class=cell2] img");
 include_once "bot_functions/sendMessage.php";
 
 try {
-    for ($i = 0; $i < count($list_info['a']); $i++){
-        $query = mysqli_query($link, "SELECT EXISTS(select null from films t where t.film = '" . trim($list_info['a'][$i]->plaintext) . "') film_exist");
+    for ($i = 0; $i < count($list_info['a']); $i++) {
+        $query = mysqli_query($link, "SELECT EXISTS(select null from films t where lower(t.film) = lower('" .trim($list_info['a'][$i]->plaintext)."')) film_exist");
         $result = $query->fetch_assoc();
 
         if (!$result['film_exist']) {
@@ -37,7 +36,7 @@ try {
             notifyBot($film_name, $film_link, $film_rate);
             $query = "INSERT INTO films (film, link, rate_uri) VALUES ('$film_name', '$film_link', '$film_rate')";
             if (!mysqli_query($link, $query)) {
-                notifyBot("Ошибка вставки фильмов ".mysqli_error($link), 'Error', 'Error');
+                throw new Exception(mysqli_error($link));
             }
         }
     }
