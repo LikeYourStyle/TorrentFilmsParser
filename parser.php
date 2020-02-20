@@ -22,7 +22,7 @@ $html = file_get_html(BASE_URL);
 $list_info['a'] = $html->find('div[class=post-title] a');
 $list_info['rate'] = $html->find("div[class=cell2] img");
 
-include_once "bot_functions/sendMessage.php";
+include_once "bot_functions/functions.php";
 
 try {
     for ($i = 0; $i < count($list_info['a']); $i++) {

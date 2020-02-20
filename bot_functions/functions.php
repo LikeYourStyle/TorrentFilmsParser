@@ -5,6 +5,34 @@
  * Date: 22.11.2018
  * Time: 17:33
  */
+define('BOT_TOKEN', '701374217:AAHBjH23Ljb3-3QsIRpF_qb6ZhU2r62EyfM');
+define('API_URL', 'https://api.telegram.org/bot' . BOT_TOKEN . '/');
+define('GROUP_INVITE', 'https://t.me/joinchat/AAAAAE6T7s_0YO8UFs3Klg');
+define('GROUP_ID', -1001318317775);
+
+function notifyBot($film_name, $film_link, $film_rate){
+    $bot = initBot();
+    if (!empty($film_rate)) {
+        $media = new \TelegramBot\Api\Types\InputMedia\ArrayOfInputMedia();
+        $media->addItem(new \TelegramBot\Api\Types\InputMedia\InputMediaPhoto($film_rate, "Новый фильм: ".$film_name."\nСсылка:\n".$film_link));
+        $bot->sendMediaGroup(GROUP_ID, $media);
+    } else {
+        $message = "Новый фильм: \n".$film_name."\nСсылка:\n".$film_link;
+        $bot->sendMessage(GROUP_ID, $message);
+    }
+    $bot->run();
+}
+
+function d_notifyBot($error){
+    $bot = initBot();
+    $bot->sendMessage(355353616, $error); //my telegram id
+    $bot->run();
+}
+
+function initBot(){
+    include_once 'bot_lib/vendor/autoload.php';
+    return $bot = new \TelegramBot\Api\Client(BOT_TOKEN);
+}
 
 function teleToLog($log) {
     $myFile = 'log.txt';
